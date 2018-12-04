@@ -1,4 +1,4 @@
-# Flora
+# Flora(https://github.com/HZHAndroid/Flora)
 
 可能是Android平台上最快的图片压缩框架。
 
